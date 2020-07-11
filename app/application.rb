@@ -1,6 +1,6 @@
-require 'net/http'
- require 'open-uri'
- require 'json'
+# require 'net/http'
+# require 'open-uri'
+# require 'json'
 
 class Application
 
